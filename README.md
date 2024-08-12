@@ -7,9 +7,13 @@ Big Basket is an Indian online grocery delivery platform founded in 2011 that ha
  Table of Content 
 
 *Importing Libraries 
-*Loading the Big Basket Product Dataset 
-* Understanding Dataset 
+
+*Loading the Big Basket Product Dataset
+
+* Understanding Dataset
+  
 *Preparing Dataset for Analysis 
+
 *Exploratory Data Analysis
 
     ![BigBasket _ Flat 3% off - Month End Flash Sale _ E-Gift Card](https://github.com/user-attachments/assets/0ebbc984-0b5b-462f-b0f5-84b4147b28cd)
